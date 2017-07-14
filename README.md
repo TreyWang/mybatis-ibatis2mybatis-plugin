@@ -1,6 +1,6 @@
 ﻿ibatis2mybatis
 ==============
-### 基于https://github.com/mybatis/ibatis2mybatis做部分修改
+### 基于https://github.com/mybatis/ibatis2mybatis  做部分修改
 
 1.做生成规则修改，生成xml更完善；
 
